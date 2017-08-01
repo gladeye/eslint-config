@@ -1,0 +1,15 @@
+{
+  "name": "@gladeye/eslint-config",
+  "version": "1.0.0",
+  "description": "Default eslint config to extend upon for all projects",
+  "main": "index.js",
+  "repository": "https://github.com/gladeye/eslint-config.git",
+  "author": "Ken Vu <ken@gladeye.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">=4.3",
+    "eslint-config-prettier": ">=2.3",
+    "eslint-plugin-prettier": ">=2.1",
+    "prettier": ">=1.5"
+  }
+}
